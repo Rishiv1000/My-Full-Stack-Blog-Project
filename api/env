@@ -1,0 +1,13 @@
+HS = "sql12.freesqldatabase.com"
+RT = "sql12749407"
+DBBASE="sql12749407"
+PASS = "EYWAvN1RnY"
+
+# export const db = mysql.createConnection({
+#   host:"sql12.freesqldatabase.com",
+#   user:"sql12749407",
+#   password:"EYWAvN1RnY",
+#   database:"sql12749407"
+# })
+
+
